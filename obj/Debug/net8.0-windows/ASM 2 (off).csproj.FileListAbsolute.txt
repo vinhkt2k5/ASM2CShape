@@ -1,0 +1,44 @@
+D:\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).exe
+D:\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).deps.json
+D:\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).runtimeconfig.json
+D:\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).dll
+D:\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).pdb
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).csproj.GenerateResource.cache
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).GeneratedMSBuildEditorConfig.editorconfig
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).AssemblyInfoInputs.cache
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).AssemblyInfo.cs
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).csproj.CoreCompileInputs.cache
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).dll
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\refint\ASM 2 (off).dll
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).pdb
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).genruntimeconfig.cache
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ref\ASM 2 (off).dll
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.CaculateWaterBill.resources
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Login.resources
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Properties.Resources.resources
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Type_1.resources
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Type_2.resources
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Type_3.resources
+D:\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Type_4.resources
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).exe
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).deps.json
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).runtimeconfig.json
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).dll
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\bin\Debug\net8.0-windows\ASM 2 (off).pdb
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.CaculateWaterBill.resources
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Login.resources
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Properties.Resources.resources
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Type_1.resources
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Type_2.resources
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Type_3.resources
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM_2__off_.Type_4.resources
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).csproj.GenerateResource.cache
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).AssemblyInfoInputs.cache
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).AssemblyInfo.cs
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).csproj.CoreCompileInputs.cache
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).dll
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\refint\ASM 2 (off).dll
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).pdb
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ASM 2 (off).genruntimeconfig.cache
+C:\Users\vinh\Documents\Zalo Received Files\ASM 2 (off)\ASM 2 (off)\obj\Debug\net8.0-windows\ref\ASM 2 (off).dll
